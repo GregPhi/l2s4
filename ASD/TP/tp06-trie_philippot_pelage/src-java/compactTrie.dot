@@ -1,0 +1,17 @@
+digraph G{
+0 [style=filled,color=pink]
+0 -> 1 [label="ci"];
+1 [style=filled,color=blue]
+1 -> 2 [label="tron"];
+2 [style=filled,color=blue]
+2 -> 3 [label="nier"];
+3 [style=filled,color=blue]
+0 -> 4 [label="banane"];
+4 [style=filled,color=blue]
+0 -> 5 [label="po"];
+5 [style=filled,color=pink]
+5 -> 6 [label="mme"];
+6 [style=filled,color=blue]
+5 -> 7 [label="ire"];
+7 [style=filled,color=blue]
+}
